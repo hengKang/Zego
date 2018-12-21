@@ -1,0 +1,6 @@
+“/Users/huhuaxiang/Documents/ZegoSDKTest/ZegoSDKTest/zegoVideoLib/ZegoLiveRoom.framework filter=lfs diff=lfs merge=lfs -text
+” filter=lfs diff=lfs merge=lfs -text
+/Users/huhuaxiang/Documents/ZegoSDKTest/ZegoSDKTest/zegoAudioLib/ZegoAudioRoom.framework[[:space:]] filter=lfs diff=lfs merge=lfs -text
+/Users/huhuaxiang/Documents/ZegoSDKTest/ZegoSDKTest/zegoVideoLib/ZegoLiveRoom.framework filter=lfs diff=lfs merge=lfs -text
+ZegoLiveRoom filter=lfs diff=lfs merge=lfs -text
+ZegoAudioRoom filter=lfs diff=lfs merge=lfs -text
